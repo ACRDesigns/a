@@ -374,17 +374,6 @@ body {
   }
 }
 
-.foto{
-  height: 300px;
-  width: 440px;
-}
-
-@media (max-width: 991px){
-  .foto{
-    height: 200px;
-    width: 340px;
-  }
-}
 
 @media (max-width: 991px) {
   .foto {
